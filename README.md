@@ -1,3 +1,3 @@
 # Ryder
 
-A Game Inspired by RiderUpdate 
+A Game Inspired by Rider
